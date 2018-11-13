@@ -1,9 +1,14 @@
 ﻿<HTML>
 <HEAD>
-  
+
+  <meta charset = "UTF-8">
+   <meta name = "description" content = "Strona zawiera informacje o mnie.>
+
   <a href="../index.html">Strona Główna</a>
 <a href="#">Kontakt</a>
 
 
-</HEAD>
+</HEAD><H1 style="text-align: center; color: pink; background-color: black; ">Strona o mnie.</H1><BR>
+Moje imię: Oliwia<BR>
+Nazwisko: Zając<BR>
 </HTML>
