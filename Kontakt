@@ -1,7 +1,8 @@
 ﻿<HTML>
 <HEAD>
-  <a href="kontakt/index.html">Kontakt</a>
   
+  <a href="../index.html">Strona Główna</a>
+<a href="#">Kontakt</a>
 
 
 </HEAD>
