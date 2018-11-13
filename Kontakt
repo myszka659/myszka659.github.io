@@ -1,11 +1,7 @@
 ﻿<HTML>
 <HEAD>
 
-  <meta charset = "UTF-8">
-   <meta name = "description" content = "Strona zawiera informacje o mnie.>
-
-  <a href="Kontakt>Strona Główna</a>
-<a href="#">Kontakt</a>
+<a href="względna ścieżka dostępu do podstrony">opis odsyłacza</a>
 
 
 </HEAD>
